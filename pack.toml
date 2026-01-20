@@ -1,0 +1,13 @@
+name = "Sanglicraft"
+author = "Witz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "35624a1ce696f638bd6d14173657114bc49ec8d608bff27a41f1d32fc12aef78"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"

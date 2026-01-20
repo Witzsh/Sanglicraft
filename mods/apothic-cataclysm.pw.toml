@@ -1,0 +1,13 @@
+name = "Apothic Cataclysm"
+filename = "apothic_cataclysm-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a76ed796d87979256963a5f879a63972859a8693"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6274150
+project-id = 1214893
