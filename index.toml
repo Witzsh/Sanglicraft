@@ -211,18 +211,8 @@ hash = "5c9c94bc624dccd558c40344b9ce93adbf59a31304cce399836f3a759c0078c9"
 metafile = true
 
 [[files]]
-file = "mods/create-bitterballen.pw.toml"
-hash = "cc4cb028ee33645165d898e97862556775fe50e74c6251dbec14ac89edfc0af7"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
-metafile = true
-
-[[files]]
-file = "mods/create-deepfried.pw.toml"
-hash = "e15fddbd278acd0e1ae90a64b8fb4c1d5868ee24f9f1add88e7ebe1a53cbc6b2"
 metafile = true
 
 [[files]]
@@ -258,11 +248,6 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "dce7de4e5a948da16df350f36ffdd1b0be9843041777b0b2e3e1e1e87e1b1c9d"
-metafile = true
-
-[[files]]
-file = "mods/cultural-delights.pw.toml"
-hash = "4598495786f58a3a99b0e5769ad1b04e3ccd6fe2fd2e9bed80e160eb1375033d"
 metafile = true
 
 [[files]]
@@ -571,11 +556,6 @@ hash = "5f3e4e66e62b6b0b1665a5ddcf4c5656e8f7d2a64e4f2406366145412add08c8"
 metafile = true
 
 [[files]]
-file = "mods/more-delight-forge.pw.toml"
-hash = "8d8aeaa4488cfd9bd37992e51e78c0bb23f1871c65c63d413e8e36788abee6f5"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "c482f82b6ed128451c78e37c9347a907fc35f5e8b12e0347e2bbd8a3eec175fa"
 metafile = true
@@ -778,11 +758,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
-metafile = true
-
-[[files]]
-file = "mods/twilights-flavors-delight.pw.toml"
-hash = "ba9a53d50f041a8016291d69ab3b6a7a7a7bb3831fa7fd5a5a9734c5fde14694"
 metafile = true
 
 [[files]]
