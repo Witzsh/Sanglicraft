@@ -31,6 +31,11 @@ hash = "6f87edf40bf0be7e7e266f9e2ff0bf7584c6bedff7975bad3259a21a60d1e598"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-delight.pw.toml"
+hash = "a025f6f0d0b42635b1e67cae07ca6e226e738ddcf48780f1c0bd0376a9d6c8e6"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves-trimmed.pw.toml"
 hash = "75437d88a40468a6d69476df3bbb6e194f45aeb576d225f595854e4e159af948"
 metafile = true
@@ -111,6 +116,11 @@ hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae-delight.pw.toml"
+hash = "a43acd4b5a8676a0738c8a9d92d70f9d8ec2eed09c517ac9b91823e94b8de7bc"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "caf733526eccac9b26d70b2649d5fa99d832d16a2379a9aa2515049c77765077"
 metafile = true
@@ -156,6 +166,11 @@ hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "fbe61f16eb71deeb9ecb4c9af7c50de97b56a2d347ee69d65810f8d8678c275a"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "f984ed4b9fcd6d1d83236bd2ce71b1ebeb248f3226d16230d5cd8245a4ed25b0"
 metafile = true
@@ -163,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
+metafile = true
+
+[[files]]
+file = "mods/call-of-yucutan.pw.toml"
+hash = "f26f000e0d32621cf3419249052967845d6f8cb25771d2a4b2d2f5447517dc06"
 metafile = true
 
 [[files]]
@@ -201,6 +221,11 @@ hash = "28053b4a334c4079b5d4c7ea2d3b8d48f8fa61420498f1bed0ff83cd316bbba0"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "c819d16483e4d029feee1b799a75cbea606ef759c6dfd67e91b5b2ed45907d29"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
 metafile = true
@@ -211,8 +236,18 @@ hash = "5c9c94bc624dccd558c40344b9ce93adbf59a31304cce399836f3a759c0078c9"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "0f0b0de9a119d9577a5948fbf33d4ffcecb2b17159ba99f2b910da75574acba4"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
+metafile = true
+
+[[files]]
+file = "mods/create-deepfried.pw.toml"
+hash = "e15fddbd278acd0e1ae90a64b8fb4c1d5868ee24f9f1add88e7ebe1a53cbc6b2"
 metafile = true
 
 [[files]]
@@ -251,6 +286,11 @@ hash = "dce7de4e5a948da16df350f36ffdd1b0be9843041777b0b2e3e1e1e87e1b1c9d"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "4598495786f58a3a99b0e5769ad1b04e3ccd6fe2fd2e9bed80e160eb1375033d"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
@@ -278,6 +318,16 @@ metafile = true
 [[files]]
 file = "mods/deltaboxlib.pw.toml"
 hash = "ad59bde8d2371eae2a5f98741da8d1018496426147d63a7f5db028d3ccb45212"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "fc6ca89075fc760ad49489b82248391a812965cde718239c12e02c46e3799c17"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "c6e7d97b4f32a4e2c38b37fe4c891678839f03f11f03621cdebbb1cb7e7f7bf5"
 metafile = true
 
 [[files]]
@@ -421,6 +471,11 @@ hash = "f27119e6d95e46b4943ec7af13ff5a68f8344c6f0344e86a22fe686512c754f7"
 metafile = true
 
 [[files]]
+file = "mods/it-takes-a-pillage.pw.toml"
+hash = "df7b7df68af83378b61168f2451154447d813001f4a46cfa2dcee69e6d87fd7f"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
 metafile = true
@@ -458,6 +513,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/large-meals-an-add-on-for-farmers-delight.pw.toml"
+hash = "d9e28a88298365e72968ede3fb229d77ea8ca80b6878ff5b84bd807e783538d9"
+metafile = true
+
+[[files]]
+file = "mods/legendary-monsters.pw.toml"
+hash = "d67a3fc92eeca14354a880d06c4f7314a40508d47f34442c8c8ddc4aeb5d1bc4"
 metafile = true
 
 [[files]]
@@ -503,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "6445161fb93a765e776f97573a32af44d0615133b76f33d56da1b842eb5fc377"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "9906e6412e0dbce8a80dad82699d576f95c04cc4574e636705d9ac3e6686b0a2"
 metafile = true
 
 [[files]]
@@ -556,6 +626,11 @@ hash = "5f3e4e66e62b6b0b1665a5ddcf4c5656e8f7d2a64e4f2406366145412add08c8"
 metafile = true
 
 [[files]]
+file = "mods/more-delight-forge.pw.toml"
+hash = "8d8aeaa4488cfd9bd37992e51e78c0bb23f1871c65c63d413e8e36788abee6f5"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "c482f82b6ed128451c78e37c9347a907fc35f5e8b12e0347e2bbd8a3eec175fa"
 metafile = true
@@ -563,6 +638,16 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "a27715adab9f478c1bdf1789c1e51343bb2300e36f6ead52c4f62aeae595c791"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "0067450fec7588f17639405b00cd03163ea81ad1afc46fdc965e0b0e44cd886e"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mounts-forge.pw.toml"
+hash = "3c51983f1ea9f543255ce815e616c08360dd587ecabe9fd61c73ddc5d405c7c1"
 metafile = true
 
 [[files]]
@@ -801,6 +886,11 @@ hash = "534edd852fe337ea5b9d952a5cfb810c9d75069c1528188312f6cf6361b0a4a9"
 metafile = true
 
 [[files]]
+file = "mods/vintage-delight.pw.toml"
+hash = "50849065002ee424c74bf52a50e152a7bd269dae665a09d2581f86f55b1ae528"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "da60fdeff7103d9c04ece03d319a28b9c899dc8b30eb8f4c14d398944dc34aeb"
 metafile = true
@@ -818,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+metafile = true
+
+[[files]]
+file = "mods/yucutan-delight.pw.toml"
+hash = "912b0372f2fe5d652353a8956e002a89597aedeb229923524dbc8bbd57a19913"
 metafile = true
 
 [[files]]
