@@ -646,8 +646,8 @@ hash = "0067450fec7588f17639405b00cd03163ea81ad1afc46fdc965e0b0e44cd886e"
 metafile = true
 
 [[files]]
-file = "mods/mythic-mounts-forge.pw.toml"
-hash = "3c51983f1ea9f543255ce815e616c08360dd587ecabe9fd61c73ddc5d405c7c1"
+file = "mods/mythic-mounts.pw.toml"
+hash = "f920114b959a9c9dc61803e8e6d9ee97f949e2eceb682ccb1f377738e2c08967"
 metafile = true
 
 [[files]]
